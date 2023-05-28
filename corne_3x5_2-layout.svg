@@ -21,15 +21,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d8d8d8"
      showgrid="false"
-     inkscape:zoom="0.82925105"
-     inkscape:cx="447.99461"
-     inkscape:cy="435.93553"
+     inkscape:zoom="1.8774526"
+     inkscape:cx="429.57144"
+     inkscape:cy="251.6708"
      inkscape:window-width="2550"
      inkscape:window-height="1377"
-     inkscape:window-x="2560"
+     inkscape:window-x="0"
      inkscape:window-y="53"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3311">
+     inkscape:current-layer="svg530">
     <inkscape:grid
        type="xygrid"
        id="grid1309"
@@ -1092,6 +1092,84 @@
        width="62.911217"
        height="34.48716"
        id="rect7102-1-8-0-58" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="44.911758"
+       height="46.639465"
+       id="rect7102-7-0-0-5-9-1-0-8-4-5-1-7" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-2-9-41-3-5" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-0-2-6" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-0-2-2-6-9" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-0-6-2-6-2" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-2-9-41-3-5-0" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="44.911758"
+       height="46.639465"
+       id="rect7102-7-0-0-5-9-1-0-8-4-5-1-7-3" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-2-9-41-3-5-6" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-0-6-2-6-26" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-2-9-41-1" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-2-9-41-1-2" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="62.911217"
+       height="34.48716"
+       id="rect7102-1-8-6-6-2-9-41-3-5-0-2" />
+    <rect
+       x="12.462957"
+       y="-1020.0016"
+       width="44.911758"
+       height="46.639465"
+       id="rect7102-7-0-0-5-9-1-0-8-4-5-1-7-3-7" />
   </defs>
   <g
      class=" decal keycap"
@@ -3248,7 +3326,7 @@
          fill="#cccccc"
          id="rect258-6-1"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#cccccc" />
       <!-- Inner Border -->
       <rect
          x="277"
@@ -3271,7 +3349,7 @@
          fill="#fcfcfc"
          id="rect262-5-3"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#fcfcfc" />
     </g>
     <g
        class="  keycap"
@@ -4212,7 +4290,7 @@
        class="  keycap"
        id="g184-9-8-9"
        transform="matrix(-0.88885114,-0.45819608,-0.36077779,0.69987013,580.5685,151.91395)"
-       style="stroke-width:1.12695">
+       style="stroke-width:1.12695;fill:#ffeeaa">
       <!-- Outer Border -->
       <rect
          x="163"
@@ -4224,7 +4302,7 @@
          class="outer border"
          id="rect176-3-3-9"
          ry="6.3501148"
-         style="stroke:#000000;stroke-width:2" />
+         style="stroke:#000000;stroke-width:2;fill:#ffeeaa" />
       <!-- Outer Fill -->
       <rect
          x="163"
@@ -4235,7 +4313,7 @@
          fill="#cccccc"
          id="rect178-9-18-1"
          ry="6.3501148"
-         style="stroke-width:1.30983" />
+         style="stroke-width:1.30983;fill:#ffeeaa" />
       <!-- Inner Border -->
       <rect
          x="169"
@@ -4247,7 +4325,7 @@
          class="inner border"
          id="rect180-0-9-9"
          ry="6.3501148"
-         style="stroke-width:2" />
+         style="stroke-width:2;fill:#ffeeaa" />
       <!-- Inner Fill -->
       <rect
          x="169"
@@ -4258,7 +4336,7 @@
          fill="#fcfcfc"
          id="rect182-8-6-4"
          ry="6.3501148"
-         style="stroke-width:1.30983" />
+         style="stroke-width:1.30983;fill:#ffeeaa" />
     </g>
     <g
        class="  keycap"
@@ -9870,7 +9948,7 @@
          fill="#cccccc"
          id="rect278-4-81"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#ffccaa" />
       <!-- Inner Border -->
       <rect
          x="385"
@@ -10019,7 +10097,7 @@
          fill="#cccccc"
          id="rect278-9-0-9"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#ffccaa" />
       <!-- Inner Border -->
       <rect
          x="385"
@@ -10168,7 +10246,7 @@
          fill="#cccccc"
          id="rect278-1-7"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#ffccaa" />
       <!-- Inner Border -->
       <rect
          x="385"
@@ -10317,7 +10395,7 @@
          fill="#cccccc"
          id="rect278-9-1-1"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#ffccaa" />
       <!-- Inner Border -->
       <rect
          x="385"
@@ -10916,7 +10994,7 @@
          fill="#cccccc"
          id="rect278-4-8-0"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#ffccaa" />
       <!-- Inner Border -->
       <rect
          x="385"
@@ -11065,7 +11143,7 @@
          fill="#cccccc"
          id="rect278-9-0-8-9"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#ffccaa" />
       <!-- Inner Border -->
       <rect
          x="385"
@@ -11214,7 +11292,7 @@
          fill="#cccccc"
          id="rect278-1-0-5"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#ffccaa" />
       <!-- Inner Border -->
       <rect
          x="385"
@@ -11363,7 +11441,7 @@
          fill="#cccccc"
          id="rect278-9-1-2-5"
          ry="5"
-         style="fill:#ffeeaa" />
+         style="fill:#ffccaa" />
       <!-- Inner Border -->
       <rect
          x="385"
@@ -11506,7 +11584,7 @@
      transform="translate(64.4229,1104.3152)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23099">A</tspan></text>
+       id="tspan24407">A</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-6"
@@ -11514,7 +11592,7 @@
      transform="translate(121.04621,1094.5277)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23101">S</tspan></text>
+       id="tspan24409">S</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-6"
@@ -11522,7 +11600,7 @@
      transform="translate(173.77557,1088.1302)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23103">D</tspan></text>
+       id="tspan24411">D</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-3"
@@ -11530,7 +11608,7 @@
      transform="translate(229.89037,1096.0065)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23105">F</tspan></text>
+       id="tspan24413">F</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-9"
@@ -11538,7 +11616,7 @@
      transform="translate(282.41139,1104.7418)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23107">G</tspan></text>
+       id="tspan24415">G</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-9"
@@ -11546,7 +11624,7 @@
      transform="translate(470.70488,1105.3372)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23109">H</tspan></text>
+       id="tspan24417">H</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-5"
@@ -11554,7 +11632,7 @@
      transform="translate(528.72378,1095.3528)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23111">J</tspan></text>
+       id="tspan24419">J</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-2"
@@ -11562,7 +11640,7 @@
      transform="translate(579.21629,1087.539)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23113">K</tspan></text>
+       id="tspan24421">K</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-1"
@@ -11570,7 +11648,7 @@
      transform="translate(634.40559,1094.5791)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23115">L</tspan></text>
+       id="tspan24423">L</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-3"
@@ -11578,11 +11656,11 @@
      transform="translate(689.94573,1090.6909)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23117">:
+       id="tspan24425">:
 </tspan><tspan
        x="12.462891"
        y="-980.15292"
-       id="tspan23119">;</tspan></text>
+       id="tspan24427">;</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-9-0-7"
@@ -11592,7 +11670,7 @@
      y="0"><tspan
        x="12.462891"
        y="-1010.5644"
-       id="tspan23121">'</tspan></text>
+       id="tspan24429">'</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-4"
@@ -11600,9 +11678,9 @@
      transform="translate(748.85583,1545.1085)"><tspan
        x="12.462891"
        y="-989.39255"
-       id="tspan23125"><tspan
+       id="tspan24433"><tspan
          dx="0 7.3177314 6.5364785 5.864603"
-         id="tspan23123">Back</tspan></tspan></text>
+         id="tspan24431">Back</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4"
@@ -11610,7 +11688,7 @@
      transform="translate(272.84337,1385.8427)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23127">ALT</tspan></text>
+       id="tspan24435">ALT</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-7"
@@ -11618,31 +11696,15 @@
      transform="translate(106.53032,1377.7006)"><tspan
        x="12.462891"
        y="-1010.5644"
-       id="tspan23129">SUPER</tspan></text>
+       id="tspan24437">SUPER</tspan></text>
   <text
      xml:space="preserve"
-     id="text7100-2-1-9-1-4-2"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-2);display:inline"
-     transform="translate(57.14567,1386.797)"><tspan
+     id="text7100-2-1-9-1-4-2-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-2-6);display:inline"
+     transform="translate(252.6553,1219.4387)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23131">ESC</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-2-1-9-1-4-2-5"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-2-94);display:inline"
-     transform="translate(160.99153,1369.8077)"><tspan
-       x="12.462891"
-       y="-1008.2051"
-       id="tspan23133">CTRL</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-2-1-9-1-4-2-5-3"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-2-94-9);display:inline"
-     transform="translate(213.04109,1376.726)"><tspan
-       x="12.462891"
-       y="-1008.2051"
-       id="tspan23135">SHIFT</tspan></text>
+       id="tspan24439">ESC</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5"
@@ -11650,7 +11712,7 @@
      transform="rotate(-17.44975,4244.2026,-1969.8358)"><tspan
        x="12.462891"
        y="-1009.3848"
-       id="tspan23137">SPACE</tspan></text>
+       id="tspan24441">SPACE</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1"
@@ -11658,95 +11720,79 @@
      transform="rotate(-27.229868,2780.6317,-1264.2428)"><tspan
        x="12.462891"
        y="-1009.3848"
-       id="tspan23139">ENTER</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-2-1-5-7"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-4);display:inline"
-     transform="rotate(-17.44975,5149.6179,-1822.2442)"><tspan
-       x="12.462891"
-       y="-1009.3848"
-       id="tspan23141">SPACE</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-2-1-5-1-4"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-6);display:inline"
-     transform="rotate(-27.229868,3353.6929,-1121.5766)"><tspan
-       x="12.462891"
-       y="-1009.3848"
-       id="tspan23143">ENTER</tspan></text>
+       id="tspan24443">ENTER</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-1"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-85);display:inline"
-     transform="rotate(0.08246523,-757482.61,233045.27)"
+     transform="rotate(0.08246523,-757482.61,233045.09)"
      x="21.19043"
      y="0"><tspan
-       x="32.046875"
-       y="-1005.8457"
-       id="tspan23147"><tspan
-         style="text-align:center;text-anchor:middle"
-         id="tspan23145">LAYER
-</tspan></tspan><tspan
        x="35.945312"
-       y="-985.8457"
-       id="tspan23151"><tspan
+       y="-1005.8457"
+       id="tspan24447"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23149">BASE</tspan></tspan></text>
+         id="tspan24445">BASE
+</tspan></tspan><tspan
+       x="32.046875"
+       y="-985.8457"
+       id="tspan24451"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24449">LAYER</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-6-3"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-3-3);display:inline"
-     transform="rotate(0.08246523,-1340915.8,228880.3)"
+     transform="rotate(0.08246523,-1340915.8,228879.94)"
      x="21.19043"
      y="0"><tspan
-       x="39.098633"
-       y="-1005.8457"
-       id="tspan23155"><tspan
-         style="text-align:center;text-anchor:middle"
-         id="tspan23153">LAYER
-</tspan></tspan><tspan
        x="47.672852"
-       y="-985.8457"
-       id="tspan23159"><tspan
+       y="-1005.8457"
+       id="tspan24455"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23157">NAV</tspan></tspan></text>
+         id="tspan24453">NAV
+</tspan></tspan><tspan
+       x="39.098633"
+       y="-985.8457"
+       id="tspan24459"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24457">LAYER</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-6-3-9"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-3-3-6);display:inline"
-     transform="rotate(0.08246523,-1533962.4,226188.61)"
+     transform="rotate(0.08246523,-1533962.4,226188.07)"
      x="21.19043"
      y="0"><tspan
-       x="40.65625"
-       y="-1005.8457"
-       id="tspan23163"><tspan
-         style="text-align:center;text-anchor:middle"
-         id="tspan23161">LAYER
-</tspan></tspan><tspan
        x="43.015625"
-       y="-985.8457"
-       id="tspan23167"><tspan
+       y="-1005.8457"
+       id="tspan24463"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23165">CHAR</tspan></tspan></text>
+         id="tspan24461">CHAR
+</tspan></tspan><tspan
+       x="40.65625"
+       y="-985.8457"
+       id="tspan24467"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24465">LAYER</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-6-3-9-0"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-3-3-6-7);display:inline"
-     transform="rotate(0.08246523,-1722913.3,230726.41)"
+     transform="rotate(0.08246523,-1722913.3,230725.87)"
      x="21.19043"
      y="0"><tspan
-       x="40.65625"
-       y="-1005.8457"
-       id="tspan23171"><tspan
-         style="text-align:center;text-anchor:middle"
-         id="tspan23169">LAYER
-</tspan></tspan><tspan
        x="43.179688"
-       y="-985.8457"
-       id="tspan23175"><tspan
+       y="-1005.8457"
+       id="tspan24471"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23173">CONF</tspan></tspan></text>
+         id="tspan24469">CONF
+</tspan></tspan><tspan
+       x="40.65625"
+       y="-985.8457"
+       id="tspan24475"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24473">LAYER</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9"
@@ -11756,99 +11802,99 @@
      y="0"><tspan
        x="22.040039"
        y="-1012.9238"
-       id="tspan23179"><tspan
+       id="tspan24479"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23177">NUM</tspan></tspan></text>
+         id="tspan24477">NUM</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-9"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-4);display:inline"
-     transform="rotate(27.661774,-2400.3813,225.13682)"
+     transform="rotate(-17.301453,4362.0139,-2031.2186)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23181">SYM</tspan></text>
+       id="tspan24481">SYM</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-3-0"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-68-8);display:inline"
-     transform="rotate(-0.10897657,591958.68,-118266.67)"
+     transform="rotate(-0.10897657,591958.68,-118266.81)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23183">SHIFT</tspan></text>
+       id="tspan24483">SHIFT</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-3-0-0"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-68-8-9);display:inline"
-     transform="rotate(-0.10897657,592287.26,-273826.86)"
+     transform="rotate(-0.10897657,592287.26,-273827)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23185">SHIFT</tspan></text>
+       id="tspan24485">SHIFT</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-3-0-7"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-68-8-4);display:inline"
-     transform="rotate(-0.10897657,597400.66,-148877.8)"
+     transform="rotate(-0.10897657,597400.66,-148877.94)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23187">ALT</tspan></text>
+       id="tspan24487">ALT</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-3-0-7-8"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-68-8-4-6);display:inline"
-     transform="rotate(-0.10897657,591699.78,-60529.83)"
+     transform="rotate(-0.10897657,591699.78,-60529.942)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23189">SUPER</tspan></text>
+       id="tspan24489">SUPER</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-3-0-7-0"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-68-8-4-8);display:inline"
-     transform="rotate(-0.10897657,596929.72,-248013.81)"
+     transform="rotate(-0.10897657,596929.72,-248013.95)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23191">ALT</tspan></text>
+       id="tspan24491">ALT</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-3-0-7-8-3"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-68-8-4-6-7);display:inline"
-     transform="rotate(-0.10897657,591814.26,-329448.35)"
+     transform="rotate(-0.10897657,591814.26,-329448.49)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23193">SUPER</tspan></text>
+       id="tspan24493">SUPER</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-3-0-7-8-3-2"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-68-8-4-6-7-9);display:inline"
-     transform="rotate(-0.10897657,588191.84,-303020.66)"
+     transform="rotate(-0.10897657,588191.84,-303020.8)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23195">CTRL</tspan></text>
+       id="tspan24495">CTRL</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-3-0-7-8-3-2-7"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-68-8-4-6-7-9-5);display:inline"
-     transform="rotate(-0.10897657,588178.7,-90581.73)"
+     transform="rotate(-0.10897657,588178.7,-90581.842)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23197">CTRL</tspan></text>
+       id="tspan24497">CTRL</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-2"
@@ -11858,35 +11904,35 @@
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23199">NAV</tspan></text>
+       id="tspan24499">NAV</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-7-3"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-8-2);display:inline;stroke:none;stroke-opacity:1"
-     transform="rotate(-16.580706,4543.3369,-2096.3918)"
+     transform="rotate(27.711396,-2394.8059,218.88163)"
      x="21.19043"
      y="0"><tspan
        x="12.462891"
        y="-1012.9238"
-       id="tspan23201">CHAR</tspan></text>
+       id="tspan24501">CHAR</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-4"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-6);display:inline"
-     transform="rotate(0.08246523,-952839.67,228919.87)"
+     transform="rotate(0.08246523,-952839.67,228919.51)"
      x="21.19043"
      y="0"><tspan
-       x="37.59668"
-       y="-1005.8457"
-       id="tspan23205"><tspan
-         style="text-align:center;text-anchor:middle"
-         id="tspan23203">LAYER
-</tspan></tspan><tspan
        x="43.84668"
-       y="-985.8457"
-       id="tspan23209"><tspan
+       y="-1005.8457"
+       id="tspan24505"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23207">NUM</tspan></tspan></text>
+         id="tspan24503">NUM
+</tspan></tspan><tspan
+       x="37.59668"
+       y="-985.8457"
+       id="tspan24509"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24507">LAYER</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100"
@@ -11894,7 +11940,7 @@
      transform="translate(64.67984,1050.3117)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23211">Q</tspan></text>
+       id="tspan24511">Q</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6"
@@ -11902,7 +11948,7 @@
      transform="translate(117.30315,1040.5242)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23213">W</tspan></text>
+       id="tspan24513">W</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1"
@@ -11910,7 +11956,7 @@
      transform="translate(174.03251,1034.1267)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23215">E</tspan></text>
+       id="tspan24515">E</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2"
@@ -11918,7 +11964,7 @@
      transform="translate(228.12964,1040.9313)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23217">R</tspan></text>
+       id="tspan24517">R</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1"
@@ -11926,7 +11972,7 @@
      transform="translate(282.66833,1050.7383)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23219">T</tspan></text>
+       id="tspan24519">T</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7"
@@ -11934,7 +11980,7 @@
      transform="translate(472.69926,1051.7432)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23221">Y</tspan></text>
+       id="tspan24521">Y</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2"
@@ -11942,7 +11988,7 @@
      transform="translate(524.98072,1041.3494)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23223">U</tspan></text>
+       id="tspan24523">U</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6"
@@ -11950,7 +11996,7 @@
      transform="translate(583.47319,1033.5356)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23225">I</tspan></text>
+       id="tspan24525">I</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7"
@@ -11958,7 +12004,7 @@
      transform="translate(632.66259,1040.5756)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23227">O</tspan></text>
+       id="tspan24527">O</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9"
@@ -11966,24 +12012,7 @@
      transform="translate(688.28803,1051.2894)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23229">P</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-6-1-2-1-7-2-6-7-9-9-9"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-7-0-0-5-9-1-0-8-4-5-1);display:inline"
-     transform="translate(242.53328,1212.3627)"
-     x="15.617188"
-     y="0"><tspan
-       x="21.970988"
-       y="-1010.5644"
-       id="tspan23233"><tspan
-         style="text-align:center;text-anchor:middle"
-         id="tspan23231">Back </tspan></tspan><tspan
-       x="18.66629"
-       y="-997.23105"
-       id="tspan23237"><tspan
-         style="text-align:center;text-anchor:middle"
-         id="tspan23235">Space</tspan></tspan></text>
+       id="tspan24529">P</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3"
@@ -11993,9 +12022,9 @@
      y="0"><tspan
        x="16.591135"
        y="-1005.8196"
-       id="tspan23241"><tspan
+       id="tspan24533"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23239">1</tspan></tspan></text>
+         id="tspan24531">1</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-8"
@@ -12005,9 +12034,9 @@
      y="0"><tspan
        x="16.591135"
        y="-1005.8196"
-       id="tspan23245"><tspan
+       id="tspan24537"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23243">2</tspan></tspan></text>
+         id="tspan24535">2</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3"
@@ -12017,9 +12046,9 @@
      y="0"><tspan
        x="23.024729"
        y="-1005.8196"
-       id="tspan23249"><tspan
+       id="tspan24541"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23247">3</tspan></tspan></text>
+         id="tspan24539">3</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6"
@@ -12029,9 +12058,9 @@
      y="0"><tspan
        x="22.141916"
        y="-1005.8196"
-       id="tspan23253"><tspan
+       id="tspan24545"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23251">4</tspan></tspan></text>
+         id="tspan24543">4</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5"
@@ -12041,9 +12070,9 @@
      y="0"><tspan
        x="22.141916"
        y="-1005.8196"
-       id="tspan23257"><tspan
+       id="tspan24549"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23255">5</tspan></tspan></text>
+         id="tspan24547">5</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-6"
@@ -12053,9 +12082,9 @@
      y="0"><tspan
        x="22.141916"
        y="-1005.8196"
-       id="tspan23261"><tspan
+       id="tspan24553"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23259">6</tspan></tspan></text>
+         id="tspan24551">6</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-6-1"
@@ -12065,9 +12094,9 @@
      y="0"><tspan
        x="22.141916"
        y="-1005.8196"
-       id="tspan23265"><tspan
+       id="tspan24557"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23263">7</tspan></tspan></text>
+         id="tspan24555">7</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-6-1-3"
@@ -12077,9 +12106,9 @@
      y="0"><tspan
        x="22.141916"
        y="-1005.8196"
-       id="tspan23269"><tspan
+       id="tspan24561"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23267">8</tspan></tspan></text>
+         id="tspan24559">8</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-6-1-3-5"
@@ -12089,9 +12118,9 @@
      y="0"><tspan
        x="22.141916"
        y="-1005.8196"
-       id="tspan23273"><tspan
+       id="tspan24565"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23271">9</tspan></tspan></text>
+         id="tspan24563">9</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-6-1-3-5-6"
@@ -12101,9 +12130,9 @@
      y="0"><tspan
        x="22.141916"
        y="-1005.8196"
-       id="tspan23277"><tspan
+       id="tspan24569"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23275">0</tspan></tspan></text>
+         id="tspan24567">0</tspan></tspan></text>
   <g
      id="g12498-6-7"
      transform="translate(9.45089,1765.691)">
@@ -12114,7 +12143,7 @@
        transform="translate(48.201847,113.7652)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23279">F1</tspan></text>
+         id="tspan24571">F1</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2"
@@ -12122,7 +12151,7 @@
        transform="translate(155.92067,96.730247)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23281">F3</tspan></text>
+         id="tspan24573">F3</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-1"
@@ -12130,7 +12159,7 @@
        transform="translate(102.68708,104.05536)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23283">F2</tspan></text>
+         id="tspan24575">F2</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5"
@@ -12138,7 +12167,7 @@
        transform="translate(210.83262,104.2322)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23285">F4</tspan></text>
+         id="tspan24577">F4</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-9"
@@ -12146,7 +12175,7 @@
        transform="translate(264.36029,114.59845)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23287">F5</tspan></text>
+         id="tspan24579">F5</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-6"
@@ -12154,7 +12183,7 @@
        transform="translate(453.18174,114.17633)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23289">F6</tspan></text>
+         id="tspan24581">F6</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-5"
@@ -12162,7 +12191,7 @@
        transform="translate(506.45479,105.57766)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23291">F7</tspan></text>
+         id="tspan24583">F7</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-2"
@@ -12170,7 +12199,7 @@
        transform="translate(560.39034,97.434068)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23293">F8</tspan></text>
+         id="tspan24585">F8</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-7"
@@ -12178,7 +12207,7 @@
        transform="translate(614.97193,103.36582)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23295">F9</tspan></text>
+         id="tspan24587">F9</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-8"
@@ -12186,7 +12215,7 @@
        transform="translate(663.63733,114.18402)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23297">F10</tspan></text>
+         id="tspan24589">F10</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-8-4"
@@ -12194,7 +12223,7 @@
        transform="translate(663.93142,167.15118)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23299">F11</tspan></text>
+         id="tspan24591">F11</tspan></text>
     <text
        xml:space="preserve"
        id="text7100-3-3-2-5-8-4-5"
@@ -12202,7 +12231,7 @@
        transform="translate(663.39798,221.06295)"><tspan
          x="12.462891"
          y="-1003.4863"
-         id="tspan23301">F12</tspan></text>
+         id="tspan24593">F12</tspan></text>
   </g>
   <text
      xml:space="preserve"
@@ -12211,7 +12240,7 @@
      transform="translate(64.37354,1158.4809)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23303">Z</tspan></text>
+       id="tspan24595">Z</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-9"
@@ -12219,7 +12248,7 @@
      transform="translate(118.99685,1148.6935)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23305">X</tspan></text>
+       id="tspan24597">X</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-5"
@@ -12227,7 +12256,7 @@
      transform="translate(173.72621,1142.296)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23307">C</tspan></text>
+       id="tspan24599">C</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-5"
@@ -12235,7 +12264,7 @@
      transform="translate(227.82334,1149.1006)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23309">V</tspan></text>
+       id="tspan24601">V</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-3"
@@ -12243,7 +12272,7 @@
      transform="translate(282.36203,1158.9075)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23311">B</tspan></text>
+       id="tspan24603">B</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-8"
@@ -12251,7 +12280,7 @@
      transform="translate(472.39296,1159.9124)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23313">N</tspan></text>
+       id="tspan24605">N</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-60"
@@ -12259,7 +12288,7 @@
      transform="translate(524.67442,1149.5186)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23315">M</tspan></text>
+       id="tspan24607">M</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-3-8"
@@ -12267,11 +12296,11 @@
      transform="translate(579.05219,1128.2951)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23317">&lt;
+       id="tspan24609">&lt;
 </tspan><tspan
        x="12.462891"
        y="-980.15292"
-       id="tspan23319">,</tspan></text>
+       id="tspan24611">,</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-3-6"
@@ -12279,11 +12308,11 @@
      transform="translate(635.54589,1135.6785)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23321">&gt;
+       id="tspan24613">&gt;
 </tspan><tspan
        x="12.462891"
        y="-980.15292"
-       id="tspan23323">.</tspan></text>
+       id="tspan24615">.</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-3-8-7"
@@ -12291,7 +12320,7 @@
      transform="translate(579.27149,1412.5006)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23325">,</tspan></text>
+       id="tspan24617">,</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-3-6-3"
@@ -12299,7 +12328,7 @@
      transform="translate(634.45739,1421.011)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23327">.</tspan></text>
+       id="tspan24619">.</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-6"
@@ -12307,11 +12336,11 @@
      transform="translate(689.20953,1146.9186)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23329">?
+       id="tspan24621">?
 </tspan><tspan
        x="12.462891"
        y="-980.15292"
-       id="tspan23331">/</tspan></text>
+       id="tspan24623">/</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-6-1"
@@ -12319,7 +12348,7 @@
      transform="translate(473.51146,1436.6013)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23333">/</tspan></text>
+       id="tspan24625">/</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-6-1-5"
@@ -12327,7 +12356,7 @@
      transform="translate(471.90398,1386.1092)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23335">*</tspan></text>
+       id="tspan24627">*</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-4-9"
@@ -12335,7 +12364,7 @@
      transform="translate(688.14133,1434.8665)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23337">\</tspan></text>
+       id="tspan24629">\</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-5"
@@ -12345,9 +12374,9 @@
      y="0"><tspan
        x="16.503249"
        y="-1003.4863"
-       id="tspan23341"><tspan
+       id="tspan24633"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23339">-</tspan></tspan></text>
+         id="tspan24631">-</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-5-3"
@@ -12355,7 +12384,7 @@
      transform="translate(632.94639,1371.0054)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23343">`</tspan></text>
+       id="tspan24635">`</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-9-09"
@@ -12370,7 +12399,7 @@
      transform="translate(520.8165,1371.8939)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23345">+</tspan></text>
+       id="tspan24637">+</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-35-8-1"
@@ -12378,7 +12407,7 @@
      transform="translate(521.9462,1426.8052)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23347">=</tspan></text>
+       id="tspan24639">=</tspan></text>
   <path
      style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleStart-0-9)"
      d="m 656.47719,914.53567 h -21.035"
@@ -12404,14 +12433,14 @@
      y="0"><tspan
        x="18.474243"
        y="-1007.6863"
-       id="tspan23351"><tspan
+       id="tspan24643"><tspan
          style="font-size:14.6667px;text-align:center;text-anchor:middle"
-         id="tspan23349">Page </tspan></tspan><tspan
+         id="tspan24641">Page </tspan></tspan><tspan
        x="15.44852"
        y="-992.75296"
-       id="tspan23355"><tspan
+       id="tspan24647"><tspan
          style="font-size:14.6667px;text-align:center;text-anchor:middle"
-         id="tspan23353">Down</tspan></tspan></text>
+         id="tspan24645">Down</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-7-1-6-8"
@@ -12421,7 +12450,7 @@
      y="0"><tspan
        x="12.462891"
        y="-1011.2051"
-       id="tspan23357">Home</tspan></text>
+       id="tspan24649">Home</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-7-95-3-9"
@@ -12431,14 +12460,14 @@
      y="0"><tspan
        x="18.474243"
        y="-1007.6863"
-       id="tspan23361"><tspan
+       id="tspan24653"><tspan
          style="font-size:14.6667px;text-align:center;text-anchor:middle"
-         id="tspan23359">Page </tspan></tspan><tspan
+         id="tspan24651">Page </tspan></tspan><tspan
        x="26.205055"
        y="-992.75296"
-       id="tspan23365"><tspan
+       id="tspan24657"><tspan
          style="font-size:14.6667px;text-align:center;text-anchor:middle"
-         id="tspan23363">Up</tspan></tspan></text>
+         id="tspan24655">Up</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-7-95-8-9-5"
@@ -12448,7 +12477,7 @@
      y="0"><tspan
        x="12.462891"
        y="-1010.3254"
-       id="tspan23367">End</tspan></text>
+       id="tspan24659">End</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-38"
@@ -12466,7 +12495,7 @@
      transform="translate(113.90099,2259.1007)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23369">œ</tspan></text>
+       id="tspan24661">œ</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-9"
@@ -12474,7 +12503,7 @@
      transform="translate(59.74247,2269.0287)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23371">æ</tspan></text>
+       id="tspan24663">æ</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-9-3"
@@ -12482,7 +12511,7 @@
      transform="translate(575.15209,2145.1805)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23373">≉</tspan></text>
+       id="tspan24665">≉</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-9-5-6"
@@ -12490,7 +12519,7 @@
      transform="translate(627.96599,2150.5097)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23375">≤</tspan></text>
+       id="tspan24667">≤</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-9-5-9"
@@ -12498,7 +12527,7 @@
      transform="translate(683.35683,2161.341)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23377">≥</tspan></text>
+       id="tspan24669">≥</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-9-70"
@@ -12506,7 +12535,7 @@
      transform="translate(521.03406,2152.32)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23379">≠</tspan></text>
+       id="tspan24671">≠</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-9-0"
@@ -12514,7 +12543,7 @@
      transform="translate(577.45249,2198.3759)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23381">°</tspan></text>
+       id="tspan24673">°</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-9-1"
@@ -12522,7 +12551,7 @@
      transform="translate(630.32759,2206.8669)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23383">±</tspan></text>
+       id="tspan24675">±</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-9-7"
@@ -12530,7 +12559,7 @@
      transform="translate(522.03328,2206.4966)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23385">€</tspan></text>
+       id="tspan24677">€</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-7-6"
@@ -12538,7 +12567,7 @@
      transform="translate(227.75734,2257.2294)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23387">ç</tspan></text>
+       id="tspan24679">ç</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-7-6-6"
@@ -12546,7 +12575,7 @@
      transform="translate(170.31224,2251.7976)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23389">Ç</tspan></text>
+       id="tspan24681">Ç</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-1"
@@ -12554,7 +12583,7 @@
      transform="translate(225.84627,2205.6796)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23391">é</tspan></text>
+       id="tspan24683">é</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-7-1"
@@ -12562,7 +12591,7 @@
      transform="translate(64.41936,2215.7153)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23393">ë</tspan></text>
+       id="tspan24685">ë</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-8-0-4-4-9"
@@ -12570,7 +12599,7 @@
      transform="translate(117.3862,2205.6399)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23395">ê</tspan></text>
+       id="tspan24687">ê</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-3-5-2-0"
@@ -12578,7 +12607,7 @@
      transform="translate(170.79906,2199.1165)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23397">è</tspan></text>
+       id="tspan24689">è</tspan></text>
   <g
      id="g3311-9-5"
      transform="translate(1.66528,552.68581)"
@@ -12640,7 +12669,8 @@
     <g
        class="  keycap"
        id="g264-4-0"
-       transform="rotate(-16.707907,102.12986,-469.04286)">
+       transform="rotate(-16.707907,102.12986,-469.04286)"
+       style="fill:#ffeeaa">
       <!-- Outer Border -->
       <rect
          x="271"
@@ -12652,7 +12682,7 @@
          class="outer border"
          id="rect256-9-7"
          ry="5"
-         style="stroke:#000000;stroke-width:2" />
+         style="stroke:#000000;stroke-width:2;fill:#ffeeaa" />
       <!-- Outer Fill -->
       <rect
          x="271"
@@ -12662,7 +12692,8 @@
          rx="5"
          fill="#cccccc"
          id="rect258-02-8"
-         ry="5" />
+         ry="5"
+         style="fill:#ffeeaa" />
       <!-- Inner Border -->
       <rect
          x="277"
@@ -12674,7 +12705,7 @@
          class="inner border"
          id="rect260-0-6"
          ry="5"
-         style="stroke-width:2" />
+         style="stroke-width:2;fill:#ffeeaa" />
       <!-- Inner Fill -->
       <rect
          x="277"
@@ -12685,7 +12716,7 @@
          fill="#fcfcfc"
          id="rect262-1-8"
          ry="5"
-         style="fill:#ffffff" />
+         style="fill:#ffeeaa" />
     </g>
     <g
        class="  keycap"
@@ -13649,7 +13680,7 @@
          fill="#cccccc"
          id="rect178-9-1-7"
          ry="6.3501148"
-         style="stroke-width:1.30983;fill:#ffeeaa" />
+         style="stroke-width:1.30983;fill:#cccccc" />
       <!-- Inner Border -->
       <rect
          x="169"
@@ -13672,7 +13703,7 @@
          fill="#fcfcfc"
          id="rect182-8-7-1"
          ry="6.3501148"
-         style="fill:#ffeeaa;stroke-width:1.30983" />
+         style="fill:#fcfcfc;stroke-width:1.30983" />
     </g>
     <g
        class="  keycap"
@@ -14659,20 +14690,20 @@
      xml:space="preserve"
      id="text7100-2-1-5-1-7-4-9-9-4-5"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-3-9-9-2-6-6);display:inline"
-     transform="rotate(0.08246523,-1143647.9,229285.85)"
+     transform="rotate(0.08246523,-1143647.9,229285.49)"
      x="21.19043"
      y="0"><tspan
-       x="37.59668"
-       y="-1005.8457"
-       id="tspan23401"><tspan
-         style="text-align:center;text-anchor:middle"
-         id="tspan23399">LAYER
-</tspan></tspan><tspan
        x="45.72168"
-       y="-985.8457"
-       id="tspan23405"><tspan
+       y="-1005.8457"
+       id="tspan24693"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23403">SYM</tspan></tspan></text>
+         id="tspan24691">SYM
+</tspan></tspan><tspan
+       x="37.59668"
+       y="-985.8457"
+       id="tspan24697"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24695">LAYER</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-6"
@@ -14682,9 +14713,9 @@
      y="0"><tspan
        x="18.787754"
        y="-1005.8196"
-       id="tspan23409"><tspan
+       id="tspan24701"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23407">!</tspan></tspan></text>
+         id="tspan24699">!</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-3-8-2"
@@ -14694,9 +14725,9 @@
      y="0"><tspan
        x="13.195947"
        y="-1005.8196"
-       id="tspan23413"><tspan
+       id="tspan24705"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23411">@</tspan></tspan></text>
+         id="tspan24703">@</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-67"
@@ -14706,9 +14737,9 @@
      y="0"><tspan
        x="21.142564"
        y="-1005.8196"
-       id="tspan23417"><tspan
+       id="tspan24709"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23415">#</tspan></tspan></text>
+         id="tspan24707">#</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-56"
@@ -14718,9 +14749,9 @@
      y="0"><tspan
        x="22.141916"
        y="-1005.8196"
-       id="tspan23421"><tspan
+       id="tspan24713"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23419">$</tspan></tspan></text>
+         id="tspan24711">$</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-9"
@@ -14730,9 +14761,9 @@
      y="0"><tspan
        x="19.211573"
        y="-1005.8196"
-       id="tspan23425"><tspan
+       id="tspan24717"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23423">%</tspan></tspan></text>
+         id="tspan24715">%</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-6-8"
@@ -14742,9 +14773,9 @@
      y="0"><tspan
        x="20.259752"
        y="-1005.8196"
-       id="tspan23429"><tspan
+       id="tspan24721"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23427">^</tspan></tspan></text>
+         id="tspan24719">^</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-6-1-7"
@@ -14754,9 +14785,9 @@
      y="0"><tspan
        x="20.80207"
        y="-1005.8196"
-       id="tspan23433"><tspan
+       id="tspan24725"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23431">&amp;</tspan></tspan></text>
+         id="tspan24723">&amp;</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-3-6-5-6-1-3-2"
@@ -14766,9 +14797,9 @@
      y="0"><tspan
        x="23.413403"
        y="-1005.8196"
-       id="tspan23437"><tspan
+       id="tspan24729"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23435">*</tspan></tspan></text>
+         id="tspan24727">*</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-7-1"
@@ -14776,7 +14807,7 @@
      transform="translate(581.00019,1640.996)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23439">[</tspan></text>
+       id="tspan24731">[</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-68-3"
@@ -14784,7 +14815,7 @@
      transform="translate(580.32219,1693.7324)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23441">]</tspan></text>
+       id="tspan24733">]</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-1-2"
@@ -14792,7 +14823,7 @@
      transform="translate(633.07489,1647.071)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23443">(</tspan></text>
+       id="tspan24735">(</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-4-1"
@@ -14800,7 +14831,7 @@
      transform="translate(688.75463,1709.971)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23445">|</tspan></text>
+       id="tspan24737">|</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-5-5"
@@ -14810,9 +14841,9 @@
      y="0"><tspan
        x="15.204419"
        y="-1003.4863"
-       id="tspan23449"><tspan
+       id="tspan24741"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23447">_</tspan></tspan></text>
+         id="tspan24739">_</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-5-3-9"
@@ -14820,7 +14851,7 @@
      transform="translate(682.92263,1596.5346)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23451">~</tspan></text>
+       id="tspan24743">~</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-0-9"
@@ -14828,7 +14859,7 @@
      transform="translate(522.31938,1647.8748)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23453">{</tspan></text>
+       id="tspan24745">{</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-0-1"
@@ -14836,7 +14867,7 @@
      transform="translate(524.13114,1702.3685)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23455">}</tspan></text>
+       id="tspan24747">}</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-31-4"
@@ -14844,7 +14875,7 @@
      transform="translate(633.83849,1700.0991)"><tspan
        x="12.462891"
        y="-1003.4863"
-       id="tspan23457">)</tspan></text>
+       id="tspan24749">)</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-9-0-1"
@@ -14854,15 +14885,15 @@
      y="0"><tspan
        x="12.462891"
        y="-1010.5644"
-       id="tspan23459">&quot;</tspan></text>
+       id="tspan24751">&quot;</tspan></text>
   <text
      xml:space="preserve"
-     id="text7100-2-1-9-1-4-2-0-0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-2-2-6);display:inline"
-     transform="translate(58.33522,1660.3067)"><tspan
+     id="text7100-2-1-9-1-4-2-0-0-1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-2-2-6-9);display:inline"
+     transform="translate(312.62396,1228.6382)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23461">TAB</tspan></text>
+       id="tspan24753">TAB</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-8-9-1"
@@ -14870,7 +14901,7 @@
      transform="translate(268.53411,2219.2292)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23463">AltGr</tspan></text>
+       id="tspan24755">AltGr</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-8-6-1-7"
@@ -14878,11 +14909,11 @@
      transform="translate(271.04094,2267.5697)"><tspan
        x="12.462891"
        y="-1009.3848"
-       id="tspan23465">Caps
+       id="tspan24757">Caps
 </tspan><tspan
        x="12.462891"
        y="-994.38477"
-       id="tspan23467">Lock</tspan></text>
+       id="tspan24759">Lock</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-4-4"
@@ -14890,15 +14921,7 @@
      transform="translate(211.50427,1927.7788)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23469">SHIFT</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-2-1-9-1-4-9-1"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-6-2);display:inline"
-     transform="translate(274.57246,1661.5622)"><tspan
-       x="12.462891"
-       y="-1008.2051"
-       id="tspan23471">ALT</tspan></text>
+       id="tspan24761">SHIFT</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-49-3-28"
@@ -14906,15 +14929,57 @@
      transform="translate(305.4567,2056.3913)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23473">CTRL</tspan></text>
+       id="tspan24763">CTRL</tspan></text>
   <text
      xml:space="preserve"
-     id="text7100-2-1-9-1-49-3-28-3"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-2-9-41-3);display:inline"
-     transform="translate(313.20728,1226.3037)"><tspan
+     id="text7100-6-1-2-1-7-2-6-7-9-9-9-3-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-7-0-0-5-9-1-0-8-4-5-1-7-3);display:inline"
+     transform="translate(475.85327,1491.6117)"
+     x="15.617188"
+     y="0"><tspan
+       x="21.970988"
+       y="-1010.5644"
+       id="tspan24767"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24765">Back </tspan></tspan><tspan
+       x="18.66629"
+       y="-997.23105"
+       id="tspan24771"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24769">Space</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text7100-6-1-2-1-7-2-6-7-9-9-9-3-0-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-7-0-0-5-9-1-0-8-4-5-1-7-3-7);display:inline"
+     transform="translate(209.72695,1371.7583)"
+     x="15.617188"
+     y="0"><tspan
+       x="21.970988"
+       y="-1010.5644"
+       id="tspan24775"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24773">Back </tspan></tspan><tspan
+       x="18.66629"
+       y="-997.23105"
+       id="tspan24779"><tspan
+         style="text-align:center;text-anchor:middle"
+         id="tspan24777">Space</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text7100-2-1-9-1-49-3-28-3-5-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-2-9-41-3-5-0);display:inline"
+     transform="translate(57.207689,1385.6052)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23475">DEL</tspan></text>
+       id="tspan24781">DEL</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text7100-2-1-9-1-49-3-28-3-5-9-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-2-9-41-3-5-0-2);display:inline"
+     transform="translate(163.70095,1371.7223)"><tspan
+       x="12.462891"
+       y="-1008.2051"
+       id="tspan24783">DEL</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-9-1-8"
@@ -14922,15 +14987,31 @@
      transform="translate(249.24915,2046.1446)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23477">ALT</tspan></text>
+       id="tspan24785">ALT</tspan></text>
   <text
      xml:space="preserve"
-     id="text7100-2-1-9-1-4-2-3-4"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-2-9-5);display:inline"
-     transform="translate(56.42257,1937.535)"><tspan
+     id="text7100-2-1-9-1-49-3-28-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-2-9-41-1);display:inline"
+     transform="translate(308.07264,1779.3081)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23479">ESC</tspan></text>
+       id="tspan24787">CTRL</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text7100-2-1-9-1-49-3-28-8-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-2-9-41-1-2);display:inline"
+     transform="translate(420.2276,1504.6321)"><tspan
+       x="12.462891"
+       y="-1008.2051"
+       id="tspan24789">CTRL</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text7100-2-1-9-1-4-9-1-8-79"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-6-2-6-26);display:inline"
+     transform="translate(251.86509,1769.0614)"><tspan
+       x="12.462891"
+       y="-1008.2051"
+       id="tspan24791">ALT</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6"
@@ -14938,7 +15019,7 @@
      transform="translate(57.12987,2452.3167)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23481">BOOT</tspan></text>
+       id="tspan24793">BOOT</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6-4"
@@ -14946,11 +15027,11 @@
      transform="translate(62.43743,2500.148)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23483">RGB
+       id="tspan24795">RGB
 </tspan><tspan
        x="12.462891"
        y="-991.53848"
-       id="tspan23485">TOG</tspan></text>
+       id="tspan24797">TOG</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6-4-9"
@@ -14958,11 +15039,11 @@
      transform="translate(62.71057,2551.0776)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23487">RGB
+       id="tspan24799">RGB
 </tspan><tspan
        x="12.462891"
        y="-991.53848"
-       id="tspan23489">MOD</tspan></text>
+       id="tspan24801">MOD</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6-4-9-9"
@@ -14970,11 +15051,11 @@
      transform="translate(115.97031,2488.5528)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23491">RGB
+       id="tspan24803">RGB
 </tspan><tspan
        x="12.462891"
        y="-991.53848"
-       id="tspan23493">HUI</tspan></text>
+       id="tspan24805">HUI</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6-4-9-9-8"
@@ -14982,11 +15063,11 @@
      transform="translate(117.72188,2541.6621)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23495">RGB
+       id="tspan24807">RGB
 </tspan><tspan
        x="12.462891"
        y="-991.53848"
-       id="tspan23497">HUD</tspan></text>
+       id="tspan24809">HUD</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6-4-9-9-0"
@@ -14994,11 +15075,11 @@
      transform="translate(170.36524,2483.484)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23499">RGB
+       id="tspan24811">RGB
 </tspan><tspan
        x="12.462891"
        y="-991.53848"
-       id="tspan23501">SAI</tspan></text>
+       id="tspan24813">SAI</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6-4-9-9-7"
@@ -15006,11 +15087,11 @@
      transform="translate(170.91678,2535.0333)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23503">RGB
+       id="tspan24815">RGB
 </tspan><tspan
        x="12.462891"
        y="-991.53848"
-       id="tspan23505">SAD</tspan></text>
+       id="tspan24817">SAD</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6-4-9-9-9"
@@ -15018,11 +15099,11 @@
      transform="translate(225.4111,2490.338)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23507">RGB
+       id="tspan24819">RGB
 </tspan><tspan
        x="12.462891"
        y="-991.53848"
-       id="tspan23509">VAI</tspan></text>
+       id="tspan24821">VAI</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-2-3-4-6-4-9-9-4"
@@ -15030,11 +15111,11 @@
      transform="translate(226.38834,2544.2469)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23511">RGB
+       id="tspan24823">RGB
 </tspan><tspan
        x="12.462891"
        y="-991.53848"
-       id="tspan23513">VAD</tspan></text>
+       id="tspan24825">VAD</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-7-4"
@@ -15042,7 +15123,7 @@
      transform="translate(105.97388,1927.8833)"><tspan
        x="12.462891"
        y="-1010.5644"
-       id="tspan23515">SUPER</tspan></text>
+       id="tspan24827">SUPER</tspan></text>
   <text
      xml:space="preserve"
      id="text7100-6-1-2-1-7-2-6-7-9-9-9-8"
@@ -15052,17 +15133,9 @@
      y="0"><tspan
        x="28.145786"
        y="-1010.5644"
-       id="tspan23519"><tspan
+       id="tspan24831"><tspan
          style="text-align:center;text-anchor:middle"
-         id="tspan23517">CONF</tspan></tspan></text>
-  <text
-     xml:space="preserve"
-     id="text94618"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect94620);display:inline"
-     transform="translate(160.99153,1369.8077)"><tspan
-       x="12.462891"
-       y="-1008.2051"
-       id="tspan23521">CTRL</tspan></text>
+         id="tspan24829">CONF</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text7100-2-1-9-1-4-7-2"
@@ -15070,31 +15143,7 @@
      transform="translate(106.52425,1652.7152)"><tspan
        x="12.462891"
        y="-1010.5644"
-       id="tspan23523">SUPER</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-2-1-9-1-4-2-5-3-5"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-6-6-0-2-94-9-8);display:inline"
-     transform="translate(213.03502,1651.7406)"><tspan
-       x="12.462891"
-       y="-1008.2051"
-       id="tspan23525">SHIFT</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text94618-3"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect94620-7);display:inline"
-     transform="translate(160.98546,1644.8223)"><tspan
-       x="12.462891"
-       y="-1008.2051"
-       id="tspan23527">CTRL</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text94618-3-1"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect94620-7-2);display:inline"
-     transform="translate(159.27585,1920.141)"><tspan
-       x="12.462891"
-       y="-1008.2051"
-       id="tspan23529">CTRL</tspan></text>
+       id="tspan24833">SUPER</tspan></text>
   <text
      xml:space="preserve"
      id="text94618-1"
@@ -15102,7 +15151,7 @@
      transform="translate(158.61417,1422.7586)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23531">Ctrl-C</tspan></text>
+       id="tspan24835">Ctrl-C</tspan></text>
   <text
      xml:space="preserve"
      id="text94618-1-2"
@@ -15110,7 +15159,7 @@
      transform="translate(213.43349,1431.2169)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23533">Ctrl-V</tspan></text>
+       id="tspan24837">Ctrl-V</tspan></text>
   <text
      xml:space="preserve"
      id="text94618-1-2-1"
@@ -15118,7 +15167,7 @@
      transform="translate(105.43273,1429.7276)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23535">Ctrl-X</tspan></text>
+       id="tspan24839">Ctrl-X</tspan></text>
   <text
      xml:space="preserve"
      id="text94618-1-2-1-6"
@@ -15126,21 +15175,5 @@
      transform="translate(51.06533,1439.3371)"><tspan
        x="12.462891"
        y="-1008.2051"
-       id="tspan23537">Ctrl-Z</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-2-1-5-2"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-58);display:inline"
-     transform="rotate(-17.44975,6043.6057,-1686.4556)"><tspan
-       x="12.462891"
-       y="-1009.3848"
-       id="tspan23539">SPACE</tspan></text>
-  <text
-     xml:space="preserve"
-     id="text7100-2-1-5-1-6"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7102-1-8-0-1-8);display:inline"
-     transform="rotate(-27.229868,3920.227,-985.28411)"><tspan
-       x="12.462891"
-       y="-1009.3848"
-       id="tspan23541">ENTER</tspan></text>
+       id="tspan24841">Ctrl-Z</tspan></text>
 </svg>
