@@ -1,0 +1,6 @@
+# Frood RP2040 Pro Micro Controller rev5
+# https://42keebs.eu/shop/parts/controllers/frood-rp2040-pro-micro-controller/
+
+# Flash firmware
+lsblk
+dd if=~/tmp/qmk_firmware/.build/crkbd_rev1_travonz_promicro_rp2040.uf2 of=/dev/sdx
